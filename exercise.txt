@@ -13,3 +13,10 @@ With JavaScript, developers can manipulate HTML elements, handle events, validat
 JavaScript has a vast and active community, which means that developers have access to a wealth of resources, tutorials, and open-source projects. This vibrant ecosystem contributes to the continuous growth and improvement of the language, ensuring that developers can stay up to date with the latest trends and best practices.
 
 In summary, JavaScript is a powerful and versatile programming language that empowers developers to create dynamic and interactive web applications. Its ability to run on both the client and server sides, along with its flexibility, makes it a popular choice for building modern web applications.
+
+
+**Suggestions for improvement:
+
+    - The number of paragraphs are huge. Reduce them and merge them together for more elaborative content
+    - Try to use appropriate connectors (for example, additionally, moreover, in other words,.....) wherever necesaary to connect your ideas properly.
+
